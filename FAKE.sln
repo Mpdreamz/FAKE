@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{06A2CB89-4DFC-4436-AB46-B3E81AFDE294}"
 	ProjectSection(SolutionItems) = preProject
@@ -79,6 +79,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "markdown", "markdown", "{B9
 		help\markdown\fake-migrate-to-fake-5.md = help\markdown\fake-migrate-to-fake-5.md
 		help\markdown\fake-what-is-fake.md = help\markdown\fake-what-is-fake.md
 		help\markdown\help-users.md = help\markdown\help-users.md
+		help\markdown\legacy-assemblyinfo.md = help\markdown\legacy-assemblyinfo.md
 		help\markdown\legacy-commandline.md = help\markdown\legacy-commandline.md
 		help\markdown\legacy-core-targets.md = help\markdown\legacy-core-targets.md
 		help\markdown\legacy-gettingstarted.md = help\markdown\legacy-gettingstarted.md
